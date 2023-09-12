@@ -25,6 +25,5 @@ class Program
         Console.WriteLine($"Средний балл: {average}");
 
         Console.ReadKey();
-
     }
 }
